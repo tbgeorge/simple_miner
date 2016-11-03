@@ -2,6 +2,8 @@ Tyler George
 Simple Miner ReadMe
 4/29/15
 
+This project relies on my personal game engine (Putty Engine) found here: https://github.com/tbgeorge/putty_engine
+
 Controls:
 	- W moves forward
 	- S moves backward
